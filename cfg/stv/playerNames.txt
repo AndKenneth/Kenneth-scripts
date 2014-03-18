@@ -1,7 +1,0 @@
-// A list of all player names connected to the server. 
-// If you ever need to edit the player names of one of the .cfg files manually this file will hopefully help!
-
-
-monster_crusher
-locko_the_smocko
-GamersOfTheSouth
