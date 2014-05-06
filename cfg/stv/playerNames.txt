@@ -1,0 +1,16 @@
+// A list of all player names connected to the server. 
+// If you ever need to edit the player names of one of the .cfg files manually this file will hopefully help!
+
+
+fear, Great Job!
+Fanatical
+dubious, great job?
+Doctor, Great Job!
+Geoh
+completion finally
+Magpie
+buddah
+jmh
+BR - the original Bear
+Roundaback Stranger
+Darien, Great Job!
