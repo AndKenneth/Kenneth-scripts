@@ -1,0 +1,9 @@
+1. Copy and Paste or symlink the antialias folder into your cfg folder. (it will look like cfg/antialias/*all the files and folders*)
+	*symlinking will allow a producer to change the definitions via dropbox instead of you having to if something messes up
+
+2. Launch game with statusspec installed (and in -insecure mode) and execute "exec antialias/antialias". I'd recommend assigning this to an alias or a straight exec in your main casting config.
+
+3. It will assign the players defined by definitions and that exist in the team folders to your standard casting aliases.
+
+4. Enjoy antialiased players
+
