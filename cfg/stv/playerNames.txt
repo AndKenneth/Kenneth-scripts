@@ -2,14 +2,15 @@
 // If you ever need to edit the player names of one of the .cfg files manually this file will hopefully help!
 
 
-CRITRAWKETS
-Herr Doktor
-Gentlemanne of Leisure
-Companion Cube
-Target Practice
-One-Man Cheeseburger Apocalypse
-Crowbar
-Delicious Cake
-IvanTheSpaceBiker
-I LIVE!
-Cannon Fodder
+BAN.oxy
+BAN.Butcher :>
+BAN.Ylvenski
+SBS | surgeon
+Ryan * VolarEsports
+Durzo
+BAN.xtrasux
+SBS | uber_gamer92
+SBS | sabu AKRACING
+SBS | kELlEr
+SBS | benoz
+SBS | Dylanklok #SPIRITUAL
